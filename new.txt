@@ -1,0 +1,4 @@
+1) name - Kopylov K.A.
+2) age - 35
+3) pets - 0
+4) salary - 1000000$
