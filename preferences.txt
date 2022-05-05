@@ -1,0 +1,5 @@
+1) movie: Gladiator
+2) series: Vikings
+3) food: meat in french
+4) season: summer and winter
+5) country: Australia

@@ -1,0 +1,10 @@
+Skills: 
+1) GIT,
+2) Visual Studio Code,
+3) Postman,
+4) Android Studio,
+5) Dbeaver,
+6) Charles,
+7) Fiddler,
+8) Test cases,
+9) Bug report
